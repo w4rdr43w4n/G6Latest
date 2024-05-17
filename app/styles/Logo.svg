@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="a" viewBox="0 0 338.5 130.8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.b{fill:#bda0fd;}.c{fill:#30295b;font-family:SegoeUI-Semibold, Segoe UI;font-size:67.47px;font-weight:700;}.d{fill:#6b76df;}.e{fill:#4fccfd;}.f{fill:#9e95fd;}.g{fill:#b29afe;}</style>
+  </defs>
+  <text class="c" style="white-space: pre; opacity: 1;" x="106.31" y="92.146"><tspan x="106.31" y="92.146" style="font-size: 67.5px; word-spacing: 0px;">ChatG6</tspan></text>
+  <polygon class="d" points="47.28 42.84 78.96 27.36 31.8 0 31.8 34.56 47.28 42.84"/>
+  <polygon class="f" points="31.8 34.56 31.8 0 0 16.44 31.8 34.56"/>
+  <polygon class="b" points="0 16.44 31.8 34.56 32.28 78 0 95.04 0 16.44"/>
+  <polygon class="d" points="0 95.04 32.28 78 60.95 95.4 60.36 130.8 0 95.04"/>
+  <polygon class="e" points="42.06 61.56 61.32 73.08 92.82 55.74 73.74 44.64 42.06 61.56"/>
+  <polygon class="b" points="61.32 73.08 92.82 55.74 92.82 114.84 60.36 130.8 61.32 73.08"/>
+  <polygon class="g" points="60.36 130.8 60.95 95.4 92.82 114.84 60.36 130.8"/>
+</svg>

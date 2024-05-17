@@ -1,0 +1,38 @@
+/* 
+
+.ql-container.ql-snow {
+	border: 1px  solid rgba(255, 255, 255, 0);
+	height: 100%;
+
+
+}
+.quill{
+	height: 86%;
+	max-height: 86%;
+}
+
+
+.spanblock {
+	background-color: "black";
+
+	border: 1px  solid rgba(255, 255, 255, 0);
+	line-height: 19px;
+	border-radius: 3px;
+
+}
+.ql-container {
+	background: var(--custombg);
+
+	border: 1px  solid rgba(255, 255, 255, 0);
+	border-radius: 1rem;
+
+	height: 100%;
+}
+  .ql-drop {
+	display: block;
+  }
+  
+.background-div{
+	background-color: rgb(190, 191, 196);
+	align-items: center;
+} */

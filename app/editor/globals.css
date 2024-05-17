@@ -1,0 +1,183 @@
+/* .main-editor {
+  display: flex;
+  flex-direction: row;
+  background-color: #fcfaff;;
+}
+
+.main-editor > div {
+  flex: 1;
+}
+
+.projects{
+  max-width: 15rem;
+  display: flex;
+  justify-content: center;
+  border-right: 1px solid #e2e2e3;
+  border-radius: 1rem;
+  background-color: #fcfaff;
+}
+.list-projects{
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.ant-input-search.search-input >.ant-input-group >.ant-input-group-addon:last-child {
+  background-color: rgba(0, 0, 0, 0);
+}
+.ant-input-search.search-input >.ant-input-group >.ant-input-group-addon:last-child:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.new-pro{
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  color:rgb(120, 91, 194) ;
+}
+.li-project-content{
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  color: #000000ab;
+}
+.chat {
+  max-height: 100%;  
+}
+
+.ant-upload-list-item-container {
+  display: none;
+}
+.Editor{
+  width: 73rem;
+  max-width: 73rem;
+}
+.window{
+  background-color: #fcfaff;
+  border-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0);
+  border-left: 1px solid #e2e2e3;
+}
+.messages{
+  background-color: #fcfaff;
+}
+
+
+.ant-input-search >.ant-input-group >.ant-input-group-addon:last-child {
+  inset-inline-start: -1px;
+  padding: 0;
+  border: 0;
+  background: rgb(150, 121, 224);
+}
+.ant-input-search >.ant-input-group >.ant-input-group-addon:last-child .ant-input-search-button {
+  margin-inline-end: 0px;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-start-start-radius: 0;
+  border-start-end-radius: 6px;
+  border-end-end-radius: 6px;
+  border-end-start-radius: 0;
+  box-shadow: none;
+  background: rgba(190, 161, 254,0);
+}
+
+.ant-input-group-wrapper-lg .ant-input-group-addon {
+  border-radius: 8px;
+}
+
+.ant-input-group .ant-input-affix-wrapper:not(:last-child) {
+  border-start-start-radius: 8px;
+  border-end-start-radius: 8px;
+}
+.ant-input-search >.ant-input-group >.ant-input-group-addon:last-child:hover {
+  background: rgb(162, 124, 245);
+  color: white;
+}
+.ant-card .ant-card-body{
+  box-shadow: rgba(190, 161, 254, 0.1)0px 0px 0px 10px inset;
+
+}
+
+.list{
+  background-color: #fcfaff;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.file{
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+}
+
+.plag{
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.ant-card {
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+}
+.ant-card .ant-card-head{
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+}
+.plg-check-button-editor{
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  height: 64px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.center-div{
+  height: 91px;
+  flex-wrap: wrap;
+  align-content:center;
+  flex-wrap: wrap;
+  border-top:1px solid #e2e2e3;
+}
+.upg-btn{
+  background: rgb(120, 91, 194);
+  color: white;
+  border-radius: 8px;
+}
+.list-item{
+  width:90%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.list-item-content{
+  border-top: 1px solid rgba(0, 0, 0, 0.065);
+  padding: 4px;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+
+}
+.tittle{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0);
+  background-color: #f8f5ff;
+  height: 3rem;
+  align-items: center;
+}
+.read{
+  height: 64حء;
+  border-radius: 8px;
+} */

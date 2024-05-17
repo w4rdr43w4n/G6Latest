@@ -1,0 +1,92 @@
+/* header {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  height: 3rem;
+}
+.options-sheet{
+  max-width: 50rem;
+  width: 50rem;
+}
+header .header-link {
+  margin-left: 20px;
+  border: 1px solid rgba(255, 255, 255,0);
+  color: black;
+  text-decoration: none;
+
+  padding: 10px;
+  transition: 0.18s ease-in-out;
+}
+header .header-link:hover {
+  background-color: rgb(190, 161, 254);
+  border: 1px solid rgba(255, 255, 255,0);
+  border-radius: 1rem;
+}
+header nav {
+  padding-left: 20px;
+  display: flex;
+}
+header .auth-options {
+  padding-right: 20px;
+}
+header div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+header div p {
+  color: rgb(190, 161, 254);
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.notification {
+  top: 0;
+  background-color: #267126;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.notification p {
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+.notification div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:5px;
+}
+.notification button {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  transition: 0.18s ease-in-out;
+}
+.notification button:hover {
+  background-color: rgb(0, 90, 0);
+}
+.upg-btn{
+  background: rgb(120, 91, 194);
+  color: white;
+  border-radius: 8px;
+} */
